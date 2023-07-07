@@ -1,0 +1,25 @@
+body {
+     height:100vu;
+     width:100vw;
+     background-image: url("./motivation.jpg");
+     background-size: 600px;
+     background-position: center;
+     }
+ .clock{
+     position: absolute;
+     top: 70%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+     color: rgb(43, 147, 226);
+     font-size: 100px;
+     letter-spacing: 12px;
+ }
+ .nav
+   { 
+    margin-top: 103px;  
+    padding-bottom: 30px;
+    height: 20px;
+    width:2000px;
+    background-color: rgb(88, 136, 104);
+    text-align: center;
+   }
